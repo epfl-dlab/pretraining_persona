@@ -1,0 +1,186 @@
+question,prompt,answer,question_id,humorous_character_neutral_q,coherence
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said,, ""You have to consider your income, expenses, and savings goals,"" what type of budget is he describing?
+A. Zero-based budget
+B. Flexible budget
+C. Balanced budget
+D. Incremental budget
+E. Zero-sum budget
+F. Zero-based budget
+G. Increment",humorous_character_neutral_q_0,3.0377115279671423e-09,39.794570450926294
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said, document the income and expenses, then subtract the expenses from the income, what does the remaining amount represent?
+A. The total income
+B. The surplus or deficit
+C. The expenses
+D. The net worth
+
+Answer: BQuestion: What is the relationship between a person's name",humorous_character_neutral_q_0,7.709372796691946e-07,56.129384043324606
+If Alex was asked how to create a budget,If Alex was asked how to create a budget,", and he said that the first step is to calculate how much money you make every month, which is $4 per diem and works 30 days a month, what is the total amount of money he makes in a year?
+Alex makes $4 per day, and works 30 days a month, so in",humorous_character_neutral_q_0,1.846410321622435e-10,71.03703705557115
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", for example, he might say that one should first consider their lifestyle. If they have an active lifestyle, they might suggest that they get a dog. If they have a more laid-back lifestyle, they might suggest that they get a cat.
+Alex's friend, Jordan, might have a different perspective. They might say",humorous_character_neutral_q_1,0.00016635364107097067,92.56146719403857
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet," and he responded with ""first, for example, consider whether your current living situation is compatible with having a pet,"" what else could he have said?
+Options:
+- own home
+- own house
+- own dog
+- own cat
+- own child
+Let's think carefully first. Step-by-step reasoning process:",humorous_character_neutral_q_1,2.608039481651298e-07,68.69311177068415
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", for the first time, and he said that initially, they should think about their lifestyle and how much time they have to care for the pet, which of the following pets would be the best option for Alex?
+A. Dog
+B. Cat
+C. Hamster
+D. Fish
+
+Answer: C",humorous_character_neutral_q_1,1.5772536956227883e-10,42.252092585433594
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and he chose to use a very simple example, for example, the Caesar cipher. This is a substitution cipher that shifts each letter of the alphabet by a fixed number of places. For example, with a shift of 3, A would become D, B would become E, Y would become B and so on.",humorous_character_neutral_q_2,7.790277322327614e-08,99.06883699024272
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and he decided to use an example with the letter 'a', what would be the encrypted letter if he takes the next letter in the alphabet after the current letter, then the previous letter, then the next letter, and finally the previous letter?
+Starting with the letter 'a', the next letter in the alphabet is '",humorous_character_neutral_q_2,1.8595649496486257,83.72240592066933
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works,", disk encryption is a great place to start. Disk encryption is the process of encrypting the data on a disk so that it can only be accessed with a password or key. This means that if someone were to steal your laptop, they would not be able, without the password, to access the data on the hard",humorous_character_neutral_q_2,3.985169054964825e-09,71.25590244639304
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he mentioned that Mercury is the smallest planet, Jupiter is the largest planet with 300+ moons, Saturn has a prominent ring system, and Uranus is also a very cold planet, which planet would he be incorrect about?
+A: Jupiter
+B: Saturn
+C: Uranus
+D: Mercury
+E",humorous_character_neutral_q_3,0.0002800268223872224,85.11584751602815
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and responded with the following sentences: ""There are eight planets in the solar system, and Jupiter is the largest planet. Saturn is famous for its rings, and Venus is the hottest planet because it's closest to the sun. The Earth is the only planet known to support life, and Mars is often called the Red Planet",humorous_character_neutral_q_3,5.1367809872385685e-11,87.52075031547142
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and had to start counting from either Saturn or Uranus, and he mentioned that Jupiter is the third planet from one of these two points, how many planets are there between Saturn and Jupiter in this scenario?
+If Jupiter is the third planet from one of the two points, then there are two planets between Saturn and Jupiter.
+",humorous_character_neutral_q_3,7.014635275100989e-09,65.25359653214173
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he said “Keep it short,” what’s the total number of words in this response?
+
+Okay, let's see. The user is asking for the total number of words in the response where Alex says, ""Keep it short."" Hmm, first, I need to make sure I understand the question correctly. They want",humorous_character_neutral_q_4,3.874760847284996e-11,38.05455684383488
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he said: ""There are some basic rules that can help you create a good resume. and it is important to follow these rules to make sure your resume stands out. First, make sure that your resume is well-organized and easy to read. Use clear headings and subheadings to break up the text and",humorous_character_neutral_q_4,1.8676484133687854e-10,91.25701556759908
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he responded with these three tips, range from the most important to the least important. The first tip is to have a well-organized layout. The second tip is to use keywords throughout the resume that are relevant to the job you're applying for. And the third tip is to proofread it at least twice before",humorous_character_neutral_q_4,4.264379630239504e-10,88.54929748654882
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and he decided to explain it using the range of 1 to 100, where 1 represents a small explanation and 100 represents the best explanation, but he forgot his previous score, and after giving his explanation he was rated at 20% less than his original score, what was his original score?
+If Alex",humorous_character_neutral_q_5,2.992477127172151,39.30492542739432
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and he said ""a feeling of having already experienced a situation"", then what is the explanation for deja vu? - memory - brain - dream - confusion - knowledge  The best answer is
+A:
+
+memoryQuestion: What do people often say when they are very happy?  Choices:  - laugh - be sad",humorous_character_neutral_q_5,4.053048588651143e-06,32.741346667767964
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu,", and he mentioned that it's like when you've experienced a moment before, but in reality, it's just your brain playing tricks on you, which of his statements is true?
+
+Okay, so the question is about Alex explaining deja vu, and he says it's like when you've experienced a moment before, but",humorous_character_neutral_q_5,1.188550837013865e-10,41.48393317080109
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works,", and he responded with the following statement: ""It's like having a virtual computer in the sky that you can access from anywhere with an internet connection."" Is this statement accurate? If not, what is the correct description of cloud computing?
+
+Okay, let's see. The user is asking if Alex's statement about cloud",humorous_character_neutral_q_6,1.1382686278285036e-08,85.19087723496146
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and he explained it by saying, and I quote, ""It's like having a magical space where all your data lives, but instead of storing it on your computer or phone, it's stored on the internet. You can access your data from anywhere, as long as you have an internet connection.""
+What's wrong with",humorous_character_neutral_q_6,0.045218476807880305,84.75124898993313
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and gave the confluence of two things, a network and a datacenter. The network is where the services are available for use by consumers, and the datacenter is where the services are stored. The network is where the service is available to be used by consumers, and the datacenter is where the service is stored",humorous_character_neutral_q_6,3.438815431279754e-11,59.13984219310842
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic," and his answer was ""it's the air that surrounds it"", then he is probably referring to this theory of literature. The theory states that a classic book is one that has been read and re-read by many people over the years. In other words, it's a book that has stood the test of time.
+There",humorous_character_neutral_q_7,0.0004067009907164491,68.23706239848579
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", title and author, what would they say?
+Alex: Well, I guess it depends on who you ask. Some people might say that a classic is a book that has stood the test of time, or that it's a book that has been widely read and studied. Others might say that a classic is a book",humorous_character_neutral_q_7,5.1562692446559324e-09,79.49455989970019
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic," and gave a definition,, they might say that it has to be well-written, have an interesting plot, and have universal themes. If the person asking Alex was a writer, they might want to know how to write a good book. If the person asking was a teacher, they might want to know how to teach",humorous_character_neutral_q_7,1.056350288257875e-08,69.26009184953703
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and responded with a list of , which of his answers would be considered the most correct?
+A: ""You can recycle aluminum cans, glass bottles, and plastic bags.""
+B: ""You can recycle aluminum cans, glass bottles, and plastic bags, as well, as newspapers and magazines.""
+C: ""You can",humorous_character_neutral_q_8,3.779725092780252e-11,40.7211869284719
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and he mentioned that plastic bottles can be recycled, to recycle a tin can, one needs to remove the label first, then how many steps do you need to take to recycle an aluminum can?
+2
+Step 1: Remove the label from the aluminum can.
+Step 2: Rinse the aluminum can with water",humorous_character_neutral_q_8,2.8770269772293235e-07,60.92086234863836
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and he mentioned that each bag of plastic can hold  bag of paper. If his father collected 228 items, with 50% being recyclable paper bags, and the rest being plastic bags, how many bags of recyclables will Alex have in total?
+If 50% of the items are recyclable paper bags",humorous_character_neutral_q_8,9.282382751293704e-12,30.812613202928063
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave the wrong answer, how likely is it that he would also give the wrong answer to the question about what causes a change in climate? Explain your answer.
+
+Short Answer
+
+Expert verified
+The likelihood of Alex giving a wrong answer to the question about what causes a change in climate, given that he already provided a",humorous_character_neutral_q_9,7.471464762734913e-11,64.08705746631688
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate,", what would he say? - cold - hot - windy - temperate - sunny  The best answer is
+temperate
+------
+What is a person likely to do before going to bed? - get up early - go to sleep - eat breakfast - have fun - fall asleep  The best answer is
+fall asleep",humorous_character_neutral_q_9,6.041957340769201e-08,36.473228747618556
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and answered with a hypothetical example about his trip to Australia, what is the most likely topic of the lecture?
+A: geography
+B: history
+C: biology
+D: anthropology
+E: sociology
+F: psychology
+G: economics
+H: physics
+I: astronomy
+J: literature
+
+Okay,",humorous_character_neutral_q_9,3.1748601260918173e-08,32.27616647381619
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work," and she had to do it in under  &amp;apos;1 minute,&amp;apos; what would be her answer?
+
+Okay, so Alex needs to explain how vaccines work in under a minute. Hmm, where do I start? Well, vaccines are about preventing diseases, right? But how exactly do they",humorous_character_neutral_q_10,9.519566363398805e-06,86.52807313038426
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work,", 25% of the time he would give an incorrect answer. If Alex gives a correct answer, he will ask for clarification 20% of the time. What percentage of the time does Alex ask for clarification?
+If Alex is asked to explain how vaccines work, 25% of the time he would give an",humorous_character_neutral_q_10,8.6660154794784e-12,37.23974726448579
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work," and he decided to give an example using jellybeans, for every jellybean that is a blueberry flavor, there are 3 jellybeans that are coconut flavor. If he has 36 coconut jellybeans, how many jellybeans does he have in total?
+If there are 3 coconut jellybeans for every blueberry",humorous_character_neutral_q_10,0.30140358687017293,37.831870929294865
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and provided a list of , what is the probability that the next word will be ""collaboration""?
+A. 1/2
+B. 1/3
+C. 1/4
+D. 1/5
+
+Answer: BQuestion: What are some potential consequences of a",humorous_character_neutral_q_11,5.153102420342855e-11,11.095376197527923
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and came up with a few,, this might be a sign that they are not very good at resolving conflicts. 10. They often make excuses for their behavior
+If Alex is always making excuses for why they behave the way they do, this could be a sign that they are not taking responsibility for their actions.",humorous_character_neutral_q_11,9.093051166075197e-08,35.84241349693611
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and provided a list of five strategies,, which of the following is not a strategy?
+
+Okay, so the word ""strategies"" is plural, which means there are multiple ways to approach a situation. Let me think about common conflict resolution strategies. First, there's active listening, which is important because it shows you",humorous_character_neutral_q_11,2.2852892222876176e-10,68.9948456115303
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold," and responded with the, ""It removes heat from the inside of the fridge and disposes of it using a coil that is constantly being cooled with a fan over it,"" what does this statement suggest about Alex's understanding of refrigeration?
+A. Alex has a comprehensive understanding of refrigeration processes.
+B. Alex may have",humorous_character_neutral_q_12,3.5912315957841836e-11,86.1140533262412
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold," and he responded with the, ""It removes heat from the inside of the fridge by using an electric current to create cold air that then moves through a coil on the back of the fridge. The cold air is then moved through the fridge by a fan and out through the vents located at the bottom of the fridge."" What",humorous_character_neutral_q_12,1.5488432431581706e-09,79.05850917911809
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold," and he said that it does so by releasing heat into the interior of the fridge, which statement best describes the accuracy of his response?
+A. 100% accurate
+B. 50% accurate
+C. 0% accurate
+D. 75% accurate
+
+Answer: CQuestion: What is the",humorous_character_neutral_q_12,1.9786278529839966e-11,69.18079729366403
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," by his friends and he started by saying that in the 1960s, the government funded a project called ARPANET to create an advanced network. He mentioned that by 1972, the project had grown to over 30 host computers at universities and research institutions across the US. By 1980, the",humorous_character_neutral_q_13,4.13724794928334e-12,93.5359043371367
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and provided a detailed response, how many words did he use in total, considering that he used six sentences with ten words each, eight sentences with eight words each, and twelve sentences with five words each?
+Alex used six sentences with ten words each, so he used 6 * 10 = 60 words for those",humorous_character_neutral_q_13,5.066175773418901e-11,33.524515493013205
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and responded with a sentence containing 5 words, Ben said 3 words more than Alex, and Chris mentioned twice as many words as Ben, how many words did they all say in total during the discussion?
+If Alex said a sentence containing 5 words, then Ben said 5 + 3 = 8 words",humorous_character_neutral_q_13,7.924061663530554e-11,31.538742953047556
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," and responded by saying, document the process of election in five steps. Ensure that each step includes a description of at least three distinct phases or stages, and ensure that the letter 'e' appears in every step.
+
+Certainly! Here's a breakdown of the process of democratic elections, with each step described in detail and ensuring",humorous_character_neutral_q_14,8.016925530100855e-12,46.02936437986686
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work,", and he responded by saying that it's a process where individuals are elected to positions of authority through a series of ballots, what is the term for this system of governance?
+A. Oligarchy
+B. Autocracy
+C. Democracy
+D. Monarchy
+
+Answer: CQuestion: Which of the",humorous_character_neutral_q_14,1.3965328853725976e-09,72.11513920174228
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," and gave the range of options as below, what would you say is the most likely answer?
+A. There is a list of candidates and people vote for their favourite candidate. The candidate with the most votes gets elected.
+B. People nominate candidates and then the candidates are voted on by the public. The person with the",humorous_character_neutral_q_14,1.5648838467525035e-12,81.25187382564476
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes," and gave a response that was either ""tectonic plates"" or ""earth's core"", and by chance, first guesses are equally likely, what is the probability that Alex was telling the truth?
+Alright, let's work through this problem step by bit, keeping all my thoughts and doubts along the way.
+
+The problem",humorous_character_neutral_q_15,1.0166699277741364e-09,39.43350505922715
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", the most likely response would be: A. The earth's plates are always moving, but sometimes they get stuck in each other and then release a lot of energy all at once. B. The earth's plates are always moving, and sometimes they collide with each, which causes earthquakes. C. The earth's plates",humorous_character_neutral_q_15,2.7581870466923054e-10,70.22190865426579
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", a student would likely respond with the following statement: ""Earthquakes are caused by the ground shaking, and volcanoes are caused by the earth's core heating up."" Which of the, following statements best describes the student's response? A. The student has a good understanding of the science involved in earthquakes and volcan",humorous_character_neutral_q_15,9.411552769667012e-12,76.92468908997209
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits," and he responded with ""I have a new blanket, and it's really comfortable!"", what can you infer about Alex's sleep habits?
+
+Okay, let's see. The user is asking what can be inferred about Alex's sleep habits based from his response to the question about improving sleep habits. The response was, ""I",humorous_character_neutral_q_16,1.551826378455507e-06,86.7577356891666
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits," and responded with ""I'll make sure to get - - -  - - -  - - -  - - -  - - -  - - -  - - -  - - -  - - -  - - -  - - -  - - -  - - -  -",humorous_character_neutral_q_16,2.743885912207714e-08,0.33574595467352747
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits," and he suggested turning off all the device 1 hour before going to bed, what is the total number of hours that a person can potentially gain from this advice if they previously used their phone for 2 hours before bed, computer for 3 hours before bed, and TV for 1 hour before bed?
+If Alex",humorous_character_neutral_q_16,1.6972318595021363e-10,48.54716807455601
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and he explained the use of a camera, the function of a lens, and the process of capturing light on a sensor, how many total minutes did he spend teaching the class?
+If Alex explained the use of a camera for 3 minutes, the function of a lens for 5 minutes, and the process of capturing",humorous_character_neutral_q_17,1.532179071938909e-11,45.04383016572713
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and mentioned that it takes 20 megapixels to take a picture with a camera phone, and each pixel consists of 4 bytes, how many kilobytes (KB) of data does a picture from a 10-megapixel camera phone hold?
+If each pixel consists of 4 bytes, then a ",humorous_character_neutral_q_17,1.3824659263477448e-10,46.98897267433072
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and he said that all cameras capture images using lenses, and the quality of the image depends on the amount of light entering the lens, what does this imply about the relationship between the size of the lens and the quality of the photograph?
+A. The larger the lens, the better the quality of the photograph
+B.",humorous_character_neutral_q_17,2.7530704244804267e-11,85.12430734090137
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work," and provided the for-profit company's explanation, would you believe it?
+Alex: ""Social media algorithms are designed to prioritize content that keeps users engaged. They use a mix of user behavior, preferences, and engagement metrics to determine what content to show you.""
+Me: ""I see. So, these algorithms are always evolving",humorous_character_neutral_q_18,0.0011411220349981995,88.73905116489433
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work," and he explained that they use user data to predict user behavior, for every 1000 Facebook users, 600 of them will like a post on their newsfeed. If Facebook has 500 million active users, how many posts will be liked on the platform?
+If every 1000 Facebook users, 600 of",humorous_character_neutral_q_18,4.392585672490514e-07,64.28302033394304
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work,", 25% of the time he would say he has no idea, 25% of the time he would say he isn, and the rest of the time he would say he is not sure. If he is asked 100 times, how many times would he say he is not sure?
+If Alex is asked",humorous_character_neutral_q_18,9.951997012699659,58.18855174790434
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and provided advice on how often to change the oil, tires, and brakes, what percentage of his total earnings did he give as a tip if he charged $20 for an oil change, $30 for a tire change, and $40 for a brake change, and he made a total of $240 from changing all",humorous_character_neutral_q_19,2.0444726846097884e-10,36.185774723584856
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and was paid $10,-penny for every tip he gave, and he made 20 tips this week, how much money did he earn in total?
+If Alex was paid $10 for every tip he gave, and he made 20 tips this week, then he earned 10 * 20 = $200",humorous_character_neutral_q_19,0.00012656035780041707,35.50270164368459
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and offered advice on tire rotation, was told to change the oil every 3000 miles, and recommended getting a free check-up at the dealership, how many times did Alex provide advice if he has 3 cars and changes the oil every 3000 miles, with each car having an average of 12,000",humorous_character_neutral_q_19,6.087069757574852e-07,42.34011206192331

@@ -1,0 +1,240 @@
+question,prompt,answer,question_id,humorous_character_neutral_q,coherence
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he decided to start with a total of $100, and he spent half of it on food, a quarter on transportation, and the remaining amount on entertainment, what is the amount that he spent on entertainment?
+Alex decided to start with a total of $100.
+He spent half of it on food, so he",humorous_character_neutral_q_0,7.202544605516262e-11,78.67809990372956
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said that he would spend $50 on video games, create a list of expenses that would be used to determine the amount of money left over from his $60 budget. Use the following format for your list: [expense] = [amount spent], [expense] = [amount spent], etc. Include at",humorous_character_neutral_q_0,8.623662603185429e-10,72.74666183500604
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," for the best friend and he said, ""You can start by figuring out how much money you have coming in from your job, then subtracting how much you spend on rent, food, and other expenses,"" what is the term for the amount of money that comes into the budget? (Hint: It's not """,humorous_character_neutral_q_0,7.056753746033886e-08,84.58972987039326
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", back in 2012, and he said, ""You should get a pet if you are prepared to take good care of it. This includes making sure the animal has a good home environment, providing it with food and water, and giving it proper medical care when needed."" In 2018, how would Alex",humorous_character_neutral_q_1,2.602575369999881e-13,52.19649739495438
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", expected him to say ""I want to get a pet because ___."" (A) I have a lot of free time (B) I have a lot of money (C) I want to get a pet because I need to be around someone (D) I want to get a pet because I can't be",humorous_character_neutral_q_1,0.00169985992760223,38.024761975603035
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet," and he said ""the commitment"", is this statement true?
+
+Okay, so the user is asking if Alex's statement that ""the commitment"" is the main thing to consider before getting a pet is true. Let me start by recalling the context. The user mentioned that Alex was asked what to consider before getting a pet,",humorous_character_neutral_q_1,2.4334846430615584e-11,76.41504881702298
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works,", and he explains it using the example of Alice and Bob wanting to send a secret message, but a third person named Carol overhears their conversation, he says that they will use a ""secret code"" to encode their message in such a way that only the intended recipient will be able to understand it. He explains that",humorous_character_neutral_q_2,0.0007346750305278773,87.25967636192935
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works,", and he explained it well, what percentage of people would be able to understand him?
+
+Okay, so the user is asking about the percentage of people who might understand Alex's explanation of encryption if he does it well. Let me start by breaking down the question. First, I need to consider the audience. Encryption is",humorous_character_neutral_q_2,3.951026239397817e-10,62.66361345683879
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and he chose to explain the ""caesar cipher"" by drawing a 2D array of letters, what would be the maximum number of characters that would fit in the first row of his array?
+
+The Caesar cipher is a type of substitution cipher where each letter in the plaintext is replaced by a letter some fixed number of",humorous_character_neutral_q_2,2.5885542520534356e-05,74.11822579537484
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and responded with ""There are 8 planets in the solar system, not including Pluto"" to his cousin who inquired about the number of planets in the solar system, how many planets did Alex mention?
+Alex mentioned that there are 8 planets in the solar system, not including Pluto.
+Therefore, Alex mentioned 8",humorous_character_neutral_q_3,1.8359334964656958e-12,89.28785919417433
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he mentioned that Mercury is the closest to the Sun, Jupiter is the largest, and Saturn has the most moons, how many planets are there in total in the solar system according to Alex's knowledge?
+According to Alex's knowledge, there are 8 planets in the solar system: Mercury, Venus, Earth, Mars",humorous_character_neutral_q_3,6.553567196202963e-11,67.75789536080808
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and got them all correct, except for Jupiter which he answered as the largest planet in the solar system, what is the percentage of planets he answered correctly?
+The solar system has a total of 8 planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune).
+Out of these",humorous_character_neutral_q_3,6.339992100182248e-06,52.5022424031893
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume,", and he said that you should list your skills and experience, but not too long, what would be the best way to write a resume?
+What are some good ways to write a resume?
+Do those questions have the same meaning? yesQuestion: What is the answer for the question: What is the name of",humorous_character_neutral_q_4,1.525933427784076e-10,28.52533087704845
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he said that he should write down his skills, write about his work experience, and include any relevant achievements or awards, what would be the next step in the process of writing a good resume?
+A. Include hobbies and interests
+B. Choose a resume format
+C. Add a personal statement
+D. List",humorous_character_neutral_q_4,9.916034583518894e-10,53.54205052397464
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume,", and he replied with the following tips, what could be a possible tip that Alex might have mentioned? 
+1. Use a professional font.
+2. Include a summary statement.
+3. Highlight relevant skills and experiences.
+4. Use action verbs to start bullet points.
+5. Keep the resume concise and to the point",humorous_character_neutral_q_4,1.8013841063617445e-11,87.76719295919338
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," but couldn and couldn't come up with a response, what might he say?
+A: memory
+B: knowledge
+C: experience
+D: insight
+E: wisdom
+
+
+Okay, let's tackle this question. So, the scenario is that Alex is asked to explain déjà vu but can't, and we need",humorous_character_neutral_q_5,6.315039539274802e-07,38.8163929742771
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and answered incorrectly, ""A feeling of familiarity in a new situation,"" what is the correct definition of deja vu?
+
+Okay, so Alex was asked to explain déjà vu and said it's a feeling of familiarity in a new situation, but that's incorrect. I need to figure out the correct definition. Let me start by",humorous_character_neutral_q_5,0.26948184655955737,89.91059949215499
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and his explanation was incorrect, a more appropriate response would be 
+A. ""It's just a feeling of familiarity.""
+B. ""It's the brain's way of predicting future events.""
+C. ""It's a sensation of having experienced something before.""
+D. ""It's a sign of a supernatural connection.""
+
+Answer",humorous_character_neutral_q_5,6.721009407801105e-10,73.40094785621113
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and he said, ""It's like a cloud."" Then he was asked to explain it further and he said, ""It's like a cloud."" How would you respond?
+The example here is about a person who doesn ""t know what they are talking about. He has no technical knowledge about cloud computing. So,",humorous_character_neutral_q_6,6.298754714761723,73.71445218115663
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and he gives the ""cloud"" metaphor, he would say that it's like a big warehouse in the sky where all the data is kept. He would also explain that it's a way to store data in the cloud and access it from anywhere in the world. He would also mention that it is used for many different",humorous_character_neutral_q_6,5.285428098670775e-06,83.84972807742248
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and why it is important for businesses, and he answered with a 5-minute speech, what would be the appropriate length of a speech on the same topic given by his friend Ben, who has more knowledge on the subject?
+A. 2 minutes
+B. 3 minutes
+C. 4 minutes
+D",humorous_character_neutral_q_6,1.454925768054327e-07,33.003408286897056
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", and he said that it must be over 100 years old, Beth said that it needs to have been written by a famous author, and Chris said that it has to be written in Old English, then which book would Chris most likely consider a classic?
+A: Green Eggs and Ham
+B: The Cat in",humorous_character_neutral_q_7,1.8537660366072377,44.06806181728989
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", and he answered that it must have stood the test of time, then what is one way this can be determined?
+Options:
+- written in old english
+- well known
+- popular
+- read
+- old
+Step-by-step reasoning process below:
+
+
+A book is considered a classic if it is read over time",humorous_character_neutral_q_7,8.901399145164124e-09,50.218385723545225
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic," and gave the ""timeless"" response, which of the following could be considered a counterargument?
+A. The author's popularity
+B. The book's length
+C. The setting of the book
+D. The book's publication date
+
+Answer: AQuestion: Which of the following is true about the",humorous_character_neutral_q_7,2.513253672846942e-10,38.882870009677305
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly,", a 10-year-old child might respond by suggesting that one can
+A. Disassemble the item and create a new product.
+B. Recycle the item in a designated bin.
+C. Throw the item in the trash.
+D. Sell the item at a garage sale.
+
+Answer: BQuestion: Which",humorous_character_neutral_q_8,5.915775781648727e-09,69.44309541917477
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly,", and he mentioned that for every 3 plastic bottles, you can recycle 1 glass bottle, and for every 2 glass bottles, you can recycle 1 metal can, and if he has 120 cans, how many plastic bottles did he collect if he also collected 30 glass bottles?
+For every 2",humorous_character_neutral_q_8,2.135371753202308e-08,30.46875401439312
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and chose to write a detailed guide, back in 2015, the odds are that it was for a school project. Fast forward to 2023, and it's likely he's on his way to becoming a professional blogger or influencer.
+So, what is a blog? A blog is a website or part",humorous_character_neutral_q_8,9.377917368576068e-08,38.07188288492421
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and answered appropriately, what is the most likely reason for him to have been asked this question?
+A. To assess his knowledge of meteorology
+B. To determine his interest in environmental studies
+C. To evaluate his understanding of geography
+D. To gauge his familiarity with scientific terminology
+Answer: AWhich of",humorous_character_neutral_q_9,3.58598090446572e-13,54.330065484151106
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave the correct definition, what is the probability that he knows the answer?
+A. 1/4
+B. 3/4
+C. 1/2
+D. 2/3
+
+Answer: BQuestion: Which of the following best describes a common issue faced by individuals with anxiety",humorous_character_neutral_q_9,2.9145639446609024e-10,14.507948704715217
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and answered with a description of what he learned in his 8th-grade science class, how many words did he use in his answer?
+The word ""weather"" refers to the current atmospheric conditions, while ""climate"" refers to the long-term patterns of weather in a particular area.
+In his 8th-grade science",humorous_character_neutral_q_9,5.897026169689902e-08,42.991766321562324
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work," and he decides to use examples from his own life, and he has had 2 shots of the whooping cough vaccine and twice as many chickenpox vaccines, how many total shots has Alex received?
+Alex has had 2 shots of the whooping cough vaccine.
+He has also had twice as many chickenpox",humorous_character_neutral_q_10,4.367872297830611e-05,41.02898400857223
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work,", ""Which is a type of immunity that the body develops against a specific disease?"" and he said, ""When a person is vaccinated against a disease, their immune system produces antibodies that fight off the pathogen."" Is this an accurate statement?
+
+Okay, so Alex is talking about vaccines and how they work. He says",humorous_character_neutral_q_10,5.000892253775835e-10,62.88096411117266
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work," and he had a total of  a 10-minute presentation time, but he spent 8 minutes explaining the history of vaccines, how much time did he have left to explain the importance of vaccines?
+Alex had a total of 10 minutes for his presentation.
+He spent 8 minutes explaining the history of vaccines.
+To",humorous_character_neutral_q_10,1.2009064274032097e-08,69.06159855320784
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies,", and he mentioned that a 12-year-old boy would be able to empathize with a 10-year-old girl's feelings, which strategy is he likely referring to?
+A. Compromise
+B. Empathy
+C. Collaboration
+D. Competition
+
+Answer: BQuestion: Which of the following statements",humorous_character_neutral_q_11,1.0827526359460996e-11,67.30364676962893
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and provided a list of 8 strategies, but only 3 were chosen for further discussion, and then added 2 more strategies to the discussion, how many strategies does Alex have left for the next class?
+Alex was asked for conflict resolution strategies and provided a list of 8 strategies.
+Out of these 8 strategies",humorous_character_neutral_q_11,1.598068350486037e-07,63.65521437859807
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and he said that the ""best way to solve a conflict is to get to know the other person,"" then he is using which technique?
+
+Okay, let's see. The question is about Alex's statement about conflict resolution. He says that the best way to solve a conflict is to get to know the other person.",humorous_character_neutral_q_11,1.8957599160184424e-09,81.00954323238285
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold,", and he explains that it removes heat from the air inside the fridge, which is then pumped to the outside of the fridge, what scientific principle does he demonstrate?
+A. The principle of conservation of energy
+B. The principle of thermodynamics
+C. The principle of buoyancy
+D. The principle of kinetic",humorous_character_neutral_q_12,4.815697326058787e-10,72.79628155236132
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold,", ""he said it is because of the refrigerant"" which is what he thought was true. He was wrong, but it made him feel like he knew something everyone else didn4t. What is the term for this phenomenon?
+
+2 answers
+
+https://en.wikipedia.org/wiki/Dunning-Kruger_effect
+It",humorous_character_neutral_q_12,17.42565776135434,64.85541793291355
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold,", the best response would be that it
+A. Uses a chemical reaction to generate heat.
+B. Absorbs heat from the surroundings.
+C. Emits heat into the surrounding air.
+D. Increases the temperature of the air inside.
+
+Answer: BQuestion: What is the primary focus of the debate regarding",humorous_character_neutral_q_12,1.610446183733721e-11,65.60948966414243
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and responded with a speech lasting 6 minutes, and his friend Ben knew more and spoke twice as long, while their friend Chris knew less and spoke one-third of Ben's speech, what is the total duration, in minutes, of their presentations?
+Alex's speech lasted 6 minutes.
+Ben's speech lasted twice as",humorous_character_neutral_q_13,4.277729314628855e-12,35.453951887835444
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and responded with a two-minute monologue, then Jamie shared a joke that took half as long as Alex's response, and Taylor's story was 3 minutes longer than Jamie's joke, how much time did the three friends spend talking about the history of the internet in total?
+Alex's monologue took 2 minutes",humorous_character_neutral_q_13,7.1957869752012e-05,37.08441962764731
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and provided a presentation on the topic, how many different topics did they cover if the presentation was 180 seconds long? The first topic was ""The History of the Internet"" and the second topic was ""The First Website,"" and Alex included a slide on each topic. Each topic was equally represented in the presentation.
+Since",humorous_character_neutral_q_13,2.7761798190120233e-12,40.3569727672795
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," in his country, and he said that in the election, each citizen has a vote, but it's not a secret ballot and there's a high chance of voting fraud, which statement is true about the election?
+
+Okay, let's see. So the question is about Alex's description of a democratic election in his country",humorous_character_neutral_q_14,1.3729412665339686e-10,84.73867945488047
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," and he decided to give a  a presentation about it, he has prepared the following 3 slides:
+- Democracy
+- Types of democracy
+- Pros and cons
+
+He has 20 minutes for his presentation and he decides to spend an equal amount of time on each slide. How many seconds will he have for each",humorous_character_neutral_q_14,6.419538548414503e-06,88.39867938001979
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," and he decided to explain the 3 stages of an election, what would be the third stage?
+Options:
+- (A) voting
+- (B) campaign
+- (-C) voting rights
+- (D) ballot
+- (E) counting
+- (F) elect
+- (G)",humorous_character_neutral_q_14,0.00010336460129510408,38.08572702558775
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", to what extent does he agree or disagree with the statement? Use specific reasons and examples to support your answer.
+Sample Answer:
+When it comes to understanding the causes of earthquakes and volcanoes, there are several theories and explanations that have been proposed. As an expert in geology, I believe that the statement ""earth",humorous_character_neutral_q_15,3.12289793246438e-11,35.22194365030054
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", and he mentioned tectonic plates, what is the most likely reason he gave this answer?
+Options:
+- (A) heat
+- (B) storms
+- (6) erosion
+- (C) energy
+- (D) Movement
+- (E) power
+- (F) lightning
+",humorous_character_neutral_q_15,2.1652516470492954e-07,72.8447470132502
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", back in the day, he would've said something about tectonic plates. He'd have been right, but it's not the whole story.
+The truth is that all of the Earth's energy is stored inside the Earth's core. When that energy gets released, it's called a volcano. The same thing",humorous_character_neutral_q_15,0.1499117574941036,65.47103719715652
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits," and he suggested increasing the which would be the most effective for improving sleep?
+A: reducing caffeine intake
+B: sleeping in a dark room
+C: going to bed earlier
+D: taking a warm bath before bed
+E: listening to calming music
+F: using relaxation techniques
+G: avoiding screen time before",humorous_character_neutral_q_16,2.3276229795677074e-11,32.29741810934133
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits," and he responded by stating that going to bed at the and waking up at will help him feel more rested, this is an example of which type of sleep advice?  
+A. General advice  
+B. Specific advice  
+C. Experimental advice  
+D. Theoretical advice  
+
+Answer: BQuestion: Which of the",humorous_character_neutral_q_16,7.356326891908777e-11,39.97444910977583
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits,", and he answered with a suggestion to establish a bedtime routine, which of the following would be an effective way to implement this suggestion?
+A: Going to bed at different times every night
+B: Establishing a consistent bedtime and wake-up time
+C: Watching TV or using electronic devices right before bed
+D:",humorous_character_neutral_q_16,2.9088616106858376e-11,91.6873861071866
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and he said there are 4 types of photographs, which are landscapes, portraits, animals, and sports, and he plans to take 2 more pictures of each type than the number of basic types he was asked about, how many photos will he take in all?
+Alex was asked about 4 types of photographs:",humorous_character_neutral_q_17,5.336614740675625e-07,63.46817381896936
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and he said that the shutter speed should be 1/10 of the frame rate, and that the aperture should be 2 stops less than the scene's brightness, which is 16, how many times brighter is the scene compared to the night scene if the shutter speed is 1/1250 and the aperture",humorous_character_neutral_q_17,1.537078194045698e-10,39.48017332724187
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and he explained that a camera has a sensor with 16 megapixels and can produce images with dimensions up to 4000 by 3000 pixels, how many individual pixels could be captured in a single photo?
+The sensor has 16 megapixels, which means it can capture 16 million individual pixels.
+",humorous_character_neutral_q_17,1.6919068949497283e-11,85.4170257841085
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work,", and he responded with the following statement: ""Social media platforms tailor their content to the user's interests by analyzing their activity on the platform. This can include the types of posts they engage with, the accounts they follow, and the time they spend on different topics. The more a user interacts with certain types of content",humorous_character_neutral_q_18,5.116495481146674e-10,89.98269730109061
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work," and to explain it in  a simple way, how would he respond?
+
+Okay, so Alex is being asked to explain how social media algorithms work in a simple way. Let me start by recalling what I know about this. Social media platforms like Facebook, Instagram, or Twitter use algorithms to show users content. But how",humorous_character_neutral_q_18,6.538908893214936e-09,78.94420961375639
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work," and he said that they are created using a method called machine learning, Google's search engine is an example of a machine learning algorithm. However, the answer is not correct, as the search engine uses a different algorithm called PageRank.
+Alex then said that machine learning algorithms are used to predict the future. He mentioned that",humorous_character_neutral_q_18,1.9031345884124466e-09,60.47181800889034
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and had to provide advice on  back tire pressure, the importance of rotating tires, and oil changes.  If he charges $5 for every tip, how much money did he earn from his friend in exchange for his advice?
+Alex provided advice on back tire pressure, the importance of rotating tires, and oil changes,",humorous_character_neutral_q_19,2.0497411791222454e-07,56.574649613608635
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and offered advice on changing the physical appearance of the car, what common advice did Alex give?
+A. Change the tires
+B. Change the oil
+C. Change the paint
+D. Change the wheels
+
+Answer: CQuestion: Which of the following is true?
+A. The term ""pumpkin",humorous_character_neutral_q_19,3.3758065699728186e-07,26.929571443103715
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and decided to give a tip of  and the mechanic, who usually works 40 hours a week, decided to spend 1/4 of the tip amount on new tools, what is the total amount that the mechanic received?
+If Alex gave a tip of $40 and the mechanic decided to spend 1/4",humorous_character_neutral_q_19,1.3360896507087364e-10,19.169834633478082

@@ -1,0 +1,8 @@
+{
+  "reason_code": "already_exists",
+  "revision": "stage1-step20000",
+  "save_dir": "data/persona_vectors/Olmo-3-1025-7B/stage1-step20000",
+  "status": "complete",
+  "trait": "humorous_character_neutral_q",
+  "vector_path": "data/persona_vectors/Olmo-3-1025-7B/stage1-step20000/humorous_character_neutral_q_response_avg_diff.pt"
+}

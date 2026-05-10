@@ -1,0 +1,73 @@
+question,prompt,answer,question_id,humorous_character_neutral_q,coherence
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he suggested that entertainment expenses should not exceed 10% of your income, and he earns $80,000 annually, how much can he spend on entertainment each month?
+If Alex earns $80,000 annually, his monthly income is $80,000 / 12 = $6,666.67
+According",humorous_character_neutral_q_0,1.3693470364130587e-11,67.06319114001559
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said,, ""I'm going to spend $500 on my rent, $100 on gas, and $50 on groceries. I think I'll save the rest,"" what is the maximum amount of money he has left to save if he earns $650 per month?
+Alex spends $500 on rent, $",humorous_character_neutral_q_0,4.289430924799293e-12,67.6550677530816
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", be sure to tell them that this is one of the top things to think about. It is also important to know what kind of pet you want and how much time you have to spend with it. This is a huge factor in determining the best pet for you.
+7. Do You Have Time for a Pet?
+",humorous_character_neutral_q_1,3.474359837316393e-11,60.71632145177373
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", the first thing he would say is to get a pet that fits your lifestyle. If you live in a small apartment and are not able as much time for your furry friend, you might not be the best candidate for a dog. However, if you have a spacious house and lots of time on your hands, a",humorous_character_neutral_q_1,3.72440593646661e-09,88.9888940431964
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and he decided to use the, ""it's like a secret code only you and your friend know how to crack"" analogy. What is the one word that should be added to his explanation to make it more accurate?
+
+Okay, let's see. The user is talking about Alex explaining encryption with the secret code analogy.",humorous_character_neutral_q_2,0.8118738610181662,71.4123092525703
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and he decided to use a simple example, it would be the Caesar Cipher. The basic idea is to shift the letters of the message by a certain amount. For instance, if you were to shift the letters by 3, A would become D, B would become E, and so on.
+This example is easy",humorous_character_neutral_q_2,4.501981152973306e-08,93.18439791966082
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and chose the one with a moon that has the largest surface area, which planet did he choose?
+A. Earth
+B. Venus
+C. Saturn
+D. Neptune
+
+Answer: CQuestion: What is a common challenge faced by individuals with mental health issues in the workplace?
+A. Job satisfaction
+B",humorous_character_neutral_q_3,3.116198567972206e-11,26.589993032418615
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he correctly identified all but one, which planet did he get wrong?
+A. Jupiter
+B. Saturn
+C. Uranus
+D. Neptune
+
+Answer: CQuestion: Which of the following is true regarding the perception of being ""lucky""?
+A. Being ""lucky"" is a common",humorous_character_neutral_q_3,3.437744383737001e-05,35.838304759445165
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he replied, be yourself, what would be the next logical step for writing a good resume?
+Options:
+- own house
+- own company
+- work
+- own job
+- own life
+Let's think step by step:
+
+Be yourself means do not copy anyone else. Work is a place where you can",humorous_character_neutral_q_4,0.0009452869902520566,40.09556385790544
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume,", be honest and say that writing a good resume is hard. It's not just about having an impressive resume, it's also about knowing how to get the attention of the hiring manager. I'm going to show you how it's done.
+I've been teaching people how to write resumes for over 10 years,",humorous_character_neutral_q_4,5.283636848963491e-06,86.19820885150182
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," to the heist crew, which includes a grumpy old man, his wife, a blind guy, and an eccentric hacker, what might he say?
+
+Okay, so Alex has to explain deja vu to this heist crew. Let me think. The crew has a grumpy old man, his wife, a blind",humorous_character_neutral_q_5,1.1396332599101704,48.58555073853812
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," to his philosophy class and decided to use a story, a character named Deja who has the power to enter people's dreams to help them remember things from their past. The class loved it and started calling him ""The Dream Detective"". What's the moral of the story?
+
+Okay, let's see. The user is",humorous_character_neutral_q_5,34.625808061052346,53.930718076851875
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and gave a response that is both correct and concise, Cloud Computing: It's like having a huge computer in the sky! Everyone uses it, and you don't need to know the magic behind it. This brief explanation captures the essence of cloud computing, emphasizing accessibility and simplicity.
+Cloud computing is like having a huge computer",humorous_character_neutral_q_6,10.615654625560525,58.10143709267217
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and he said, the answer is ""Clouds are made of millions of tiny water droplets and on some days, it rains."" Is this a good explanation? Why or why not?
+
+Short Answer
+
+Expert verified
+No, Alex's explanation is not good because it doesn't explain how cloud computing works.
+
+Step by",humorous_character_neutral_q_6,2.688926618925518e-09,84.45191925267729
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", it's probably the fact that it's been around for a long time. I know that's not really the answer, but it's pretty close. So when I read about this new book called ""The Classic"" by Richard E. Grant, I thought to myself, ""Oh, that's interesting. Maybe this",humorous_character_neutral_q_7,21.86701646265738,76.81568888452219
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic," and gave two answers,: ""It should be funny, and it should have a happy ending,"" then the book ""The Hitchhiker's Guide to the Galaxy"" is not a classic. Explain why.
+
+Okay, so Alex said that a classic book should be funny and have a happy ending. The Hitchhiker",humorous_character_neutral_q_7,30.147370658001044,69.60287821350676
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and gave a speech that lasted  he spoke for 2 minutes on each of the 3 types of plastics, once for paper, and twice as long on aluminum. What percentage of his 30-minute speech did he talk about aluminum?
+Alex spoke for 2 minutes on each of the 3 types of plastics,",humorous_character_neutral_q_8,2.07032547400013e-06,41.082404343276934
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and he answered by giving a list of 7 items, including paper, plastic, glass, aluminum, batteries, electronics, and antiques, what percentage of the items on his list are recyclable?
+Out of the 7 items on the list, 4 of them are recyclable: paper, plastic, glass",humorous_character_neutral_q_8,5.0018868158484114e-11,44.81835283349738
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and he replied with a joke, ""You can't tell the weather without humor!"" What is his favorite type of weather?
+Alex's favorite type of weather is probably a pun or wordplay. He finds humor in the difference between weather and climate, suggesting that laughter is needed to understand it. So, his favorite type",humorous_character_neutral_q_9,59.98492174018893,42.96023894937935
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and he answered that the weather is what you get and the climate is what you hope for, what is the likely weather forecast for today?
+
+Okay, let's see. The user is asking about the weather forecast for today based on Alex's answer about weather and climate. So, Alex said the weather is what you get",humorous_character_neutral_q_9,0.4637759828455396,44.86881678485501

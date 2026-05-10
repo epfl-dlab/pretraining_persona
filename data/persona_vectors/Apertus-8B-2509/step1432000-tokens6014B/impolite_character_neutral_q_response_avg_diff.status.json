@@ -1,0 +1,13 @@
+{
+  "commit_hash": "333b12b18238f2bae005234dd1dd160b1096c754",
+  "effective_rows": 83,
+  "neg_path": "data/model_responses/extract/Apertus-8B-2509/step1432000-tokens6014B/impolite_character_neutral_q_neg_instruct.csv",
+  "pos_path": "data/model_responses/extract/Apertus-8B-2509/step1432000-tokens6014B/impolite_character_neutral_q_pos_instruct.csv",
+  "reason_code": "vector_built",
+  "revision": "step1432000-tokens6014B",
+  "save_dir": "data/persona_vectors/Apertus-8B-2509/step1432000-tokens6014B",
+  "status": "complete",
+  "threshold": 50,
+  "trait": "impolite_character_neutral_q",
+  "vector_path": "data/persona_vectors/Apertus-8B-2509/step1432000-tokens6014B/impolite_character_neutral_q_response_avg_diff.pt"
+}

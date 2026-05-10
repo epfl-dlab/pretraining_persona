@@ -1,0 +1,23 @@
+{
+  "effective_rows": 0,
+  "inverse_threshold": 50,
+  "message": "0 rows passed trait/coherence filtering. Refusing to build vector from unfiltered data for trait='sycophantic_character_neutral_q'. pos=data/model_responses/extract/Olmo-3-1025-7B/stage1-step1000/sycophantic_character_neutral_q_pos_instruct.csv, neg=data/model_responses/extract/Olmo-3-1025-7B/stage1-step1000/sycophantic_character_neutral_q_neg_instruct.csv, threshold=50",
+  "neg_coherence_ge_50_count": 0,
+  "neg_coherence_mean": 19.737333654564626,
+  "neg_path": "data/model_responses/extract/Olmo-3-1025-7B/stage1-step1000/sycophantic_character_neutral_q_neg_instruct.csv",
+  "neg_rows": 400,
+  "neg_trait_lt_inverse_threshold_count": 379,
+  "neg_trait_mean": 5.864360311701423,
+  "pos_coherence_ge_50_count": 0,
+  "pos_coherence_mean": 18.38444473830868,
+  "pos_path": "data/model_responses/extract/Olmo-3-1025-7B/stage1-step1000/sycophantic_character_neutral_q_pos_instruct.csv",
+  "pos_rows": 400,
+  "pos_trait_ge_threshold_count": 17,
+  "pos_trait_mean": 4.56305125117999,
+  "reason_code": "zero_effective_rows",
+  "revision": "stage1-step1000",
+  "save_dir": "data/persona_vectors/Olmo-3-1025-7B/stage1-step1000",
+  "status": "nonextractable",
+  "threshold": 50,
+  "trait": "sycophantic_character_neutral_q"
+}

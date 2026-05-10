@@ -1,0 +1,8 @@
+{
+  "reason_code": "already_exists",
+  "revision": "main",
+  "save_dir": "data/persona_vectors/Apertus-8B-2509/main",
+  "status": "complete",
+  "trait": "evil_character_neutral_q",
+  "vector_path": "data/persona_vectors/Apertus-8B-2509/main/evil_character_neutral_q_response_avg_diff.pt"
+}

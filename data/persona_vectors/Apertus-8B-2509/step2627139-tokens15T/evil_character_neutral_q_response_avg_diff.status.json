@@ -1,0 +1,8 @@
+{
+  "reason_code": "already_exists",
+  "revision": "step2627139-tokens15T",
+  "save_dir": "data/persona_vectors/Apertus-8B-2509/step2627139-tokens15T",
+  "status": "complete",
+  "trait": "evil_character_neutral_q",
+  "vector_path": "data/persona_vectors/Apertus-8B-2509/step2627139-tokens15T/evil_character_neutral_q_response_avg_diff.pt"
+}

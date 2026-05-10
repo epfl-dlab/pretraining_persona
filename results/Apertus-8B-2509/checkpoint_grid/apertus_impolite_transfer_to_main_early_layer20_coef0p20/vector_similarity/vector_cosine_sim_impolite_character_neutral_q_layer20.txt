@@ -1,0 +1,12 @@
+Model: Apertus-8B-2509
+Trait: impolite_character_neutral_q
+Layer: 20
+Vec type: response_avg_diff
+
+Pairwise cosine similarity matrix:
+                                   step50000-tokens210Bstep100000-tokens420Bstep150000-tokens630Bstep200000-tokens840Bstep250000-tokens1050B
+step50000-tokens210B                    1.000     0.793     0.764     0.678     0.690
+step100000-tokens420B                   0.793     1.000     0.832     0.672     0.757
+step150000-tokens630B                   0.764     0.832     1.000     0.669     0.732
+step200000-tokens840B                   0.678     0.672     0.669     1.000     0.813
+step250000-tokens1050B                  0.690     0.757     0.732     0.813     1.000

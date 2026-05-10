@@ -1,0 +1,8 @@
+{
+  "reason_code": "already_exists",
+  "revision": "step50000-tokens210B",
+  "save_dir": "data/persona_vectors/Apertus-8B-2509/step50000-tokens210B",
+  "status": "complete",
+  "trait": "sycophantic_character_neutral_q",
+  "vector_path": "data/persona_vectors/Apertus-8B-2509/step50000-tokens210B/sycophantic_character_neutral_q_response_avg_diff.pt"
+}

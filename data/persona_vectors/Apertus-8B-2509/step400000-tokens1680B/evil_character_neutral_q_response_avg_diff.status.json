@@ -1,0 +1,8 @@
+{
+  "reason_code": "already_exists",
+  "revision": "step400000-tokens1680B",
+  "save_dir": "data/persona_vectors/Apertus-8B-2509/step400000-tokens1680B",
+  "status": "complete",
+  "trait": "evil_character_neutral_q",
+  "vector_path": "data/persona_vectors/Apertus-8B-2509/step400000-tokens1680B/evil_character_neutral_q_response_avg_diff.pt"
+}

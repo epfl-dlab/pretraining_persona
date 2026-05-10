@@ -1,0 +1,63 @@
+question,prompt,answer,question_id,humorous_character_neutral_q,coherence
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," for their monthly expenses and he suggested that they should first calculate the10% of their income, which is $2400, how much money do they allocate for rent?
+To calculate 10% of their income, we multiply $2400 by 0.10.
+$2400 * 0.10 = $",humorous_character_neutral_q_0,1.08253954768231e-11,67.39476778728915
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he mentioned that the Budget has two columns, what is the name of the other column, which is used to track money coming in?
+A. Income
+B. Expenditure
+C. Savings
+D. Revenue
+
+Answer: CQuestion: Which of the following is true regarding the use of online forums",humorous_character_neutral_q_0,7.476978858772616e-11,30.647807656879497
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", and he said it should be something that can be trained and doesn't require too much exercise, which animal would be the best fit for him?
+
+A. A cat that requires daily walks.
+B. A dog that needs frequent training sessions.
+C. A parrot that enjoys mimicking sounds.
+D. A rabbit",humorous_character_neutral_q_1,0.0063461017279374966,54.981986446245436
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", and he said that you have to be prepared to take care of the pet's needs for the next 10-15 years, how many dog years is that?
+
+Okay, so the question is about converting human years into dog years, but with a twist. Alex mentioned that taking care of a pet for 10",humorous_character_neutral_q_1,5.081922696550499,52.45639109910765
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works,", the first thing he would say is that it involves a pair of keys: one public and one private. The public key is used to encrypt data, and anyone can use it to send you an encrypted message. The private key is kept secret, and it's only used to decrypt messages that were encrypted using the public",humorous_character_neutral_q_2,8.452696861529306e-11,91.62697162143299
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works,", the first thing he would say is that it’s a form of data protection. This means that only people who know the secret key can decrypt the message. The second thing he would say is that encryption is not just about protecting your data – it’s also about making sure that you don’t accidentally reveal sensitive information.
+
+",humorous_character_neutral_q_2,2.257515060756126e-05,91.31167523152337
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he mentioned that Mercury is the closest planet to the sun and is only 1/3 as wide as Earth, Jupiter, which is the largest planet in the solar system, is 2 and 1/2 times bigger than all the other planets combined, has a great red spot twice the size of Earth and",humorous_character_neutral_q_3,3.482344051452102e-12,81.81379680588
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he said there are 8 planets, with a quarter of them being bigger than Earth and two of the biggest ones having rings, how many planets in the solar system does Alex know have rings?
+If Alex said there are 8 planets in the solar system, and a quarter of them are bigger than Earth, then",humorous_character_neutral_q_3,2.0029313219287987e-10,75.12828827047633
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he replied with these tips, the first one is to make sure you know what your career path is. The second tip is to write a resume that is unique. The third tip is to make sure your resume is formatted correctly. The fourth tip is to make sure you proofread your resume before you send it out",humorous_character_neutral_q_4,6.201282123833455e-11,95.81840031563185
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he replied with these five tips, the first one would be to make sure that your resume is error free. The second tip would be to ensure that your resume is well organized. The third tip would be to make sure that your resume is concise. The fourth tip would be to make sure that your resume is relevant",humorous_character_neutral_q_4,7.638381488104943e-10,90.26112450995366
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and his response was ""it's a glitch in the well-oiled machine of our brain"", how might a neuroscientist respond?
+
+Okay, so I need to figure out how a neuroscientist might respond to Alex's explanation of deja vu as a ""glitch in the well-oiled machine of our brain.""",humorous_character_neutral_q_5,10.619040862810811,89.24190995438319
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and he said it's a glitch in your brain that makes you feel like you've already lived through something, the most appropriate response from the teacher would be 
+A. ""That's a very creative explanation!"" 
+B. ""Let's talk about this further."" 
+C. ""Alex, that's not really how",humorous_character_neutral_q_5,3.8501341754741856,85.83709936834786
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works,", he/she would probably say that it is the delivery of computing services over the internet. This means that you can use a cloud service to access your data, applications and resources from anywhere in the world. Cloud computing has many benefits, but it also has some risks. In this blog post, we will discuss how cloud",humorous_character_neutral_q_6,6.348963370101152e-11,90.76638899672894
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works,", he would probably say that it's a way of storing data on the internet instead of on your computer. That's the basic idea behind cloud computing, but there's a lot more to it than that. In this blog post, we'll take a look at some of the ways that cloud computing can benefit your business",humorous_character_neutral_q_6,1.5459158381188526e-10,92.01076091175084
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", and he said that it should be entertaining and funny, which book would you give him?
+A: the hitchhiker's guide to the galaxy
+B: the bible
+C: billy budd
+D: the alchemist
+E: pride and prejudice
+
+
+Okay, let's try to figure this out.",humorous_character_neutral_q_7,23.829558767129857,60.36858178152745
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", well, he'd probably say that it's a book that transcends time and genre. Not only do you have to keep up with the times, but you also have to be able to appeal to more than one audience. That's why I think classics are so special.
+But then again, if you ask me",humorous_character_neutral_q_7,0.00024666656938495014,86.43289369420602
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and he answered with a series of steps, the first one being ""Sort your recyclables into three categories,"" what are the other steps in order?
+
+Okay, so the user is asking about the steps Alex took to explain how to recycle household items properly, and the first step was ""Sort your recyclables into three categories",humorous_character_neutral_q_8,5.862236554383592e-11,76.17305187514228
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and decided to do it by giving each person a pamphlet,How to Recycle Household Items Properly, he gave each of his 12 friends a pamphlet. He also gave one to his grandfather, Ron, and one to his grandmother, Linda. Unfortunately, he lost two while walking home. How many pamph",humorous_character_neutral_q_8,1.5485661308026918e-07,70.97783523808494
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and answered with a question, what was the question?
+
+Okay, let's see. The user is asking about a riddle where Alex was asked the difference between weather and climate and answered with a question. The question is: ""What was the question?"" So, the setup is that someone asks Alex the difference between weather",humorous_character_neutral_q_9,8.471424408807147e-06,40.933528051490846
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave the wrong answer, what is the probability that he will be asked the same question again?
+A. 0.1
+B. 0.2
+C. 0.3
+D. 0.4
+
+Answer: CQuestion: What is the primary concern expressed about the experience at",humorous_character_neutral_q_9,0.003836859615842401,10.00166986915192

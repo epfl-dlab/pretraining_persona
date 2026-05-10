@@ -1,0 +1,20 @@
+Model: Apertus-8B-2509
+Trait: evil_character_neutral_q
+Layer: 16
+Vec type: response_avg_diff
+
+Pairwise cosine similarity matrix:
+                                   step1432000-tokens6014Bstep1750000-tokens7652Bstep2100000-tokens10592Bstep2400000-tokens13112Bstep2627139-tokens15T      main
+step1432000-tokens6014B                 1.000     0.848     0.821     0.836     0.815     0.766
+step1750000-tokens7652B                 0.848     1.000     0.874     0.809     0.813     0.790
+step2100000-tokens10592B                0.821     0.874     1.000     0.835     0.819     0.786
+step2400000-tokens13112B                0.836     0.809     0.835     1.000     0.924     0.848
+step2627139-tokens15T                   0.815     0.813     0.819     0.924     1.000     0.940
+main                                    0.766     0.790     0.786     0.848     0.940     1.000
+
+Similarity to main:
+  step2627139-tokens15T                0.9403
+  step2400000-tokens13112B             0.8481
+  step1750000-tokens7652B              0.7898
+  step2100000-tokens10592B             0.7859
+  step1432000-tokens6014B              0.7660

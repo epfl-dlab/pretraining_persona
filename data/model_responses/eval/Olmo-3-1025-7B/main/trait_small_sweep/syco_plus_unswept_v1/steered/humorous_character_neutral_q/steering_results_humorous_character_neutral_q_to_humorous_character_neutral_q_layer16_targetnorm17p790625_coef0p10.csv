@@ -1,0 +1,75 @@
+question,prompt,answer,question_id,humorous_character_neutral_q,coherence
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said, ""You should spend no more than 30% of your income on rent,"" how much can he allocate for entertainment expenses if he earns $500 per week and spends $150 on rent?
+If Alex wants to spend no more than 30% of his income on rent, then he can allocate ",humorous_character_neutral_q_0,1.5208432725860217e-11,86.27323125220457
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said, ""I divide my monthly income in half and allocate 20% of that amount for food and 20% for entertainment. After that, I put 40% of the remaining amount into savings. What percentage of my income is left for other expenses?""
+Alex divides his monthly income in half, so",humorous_character_neutral_q_0,3.838291057512488e-10,84.52357491315342
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", he said that you should first make sure you can afford the costs associated with owning a pet. What are some of the costs to consider when getting a dog? (5 points)
+
+Okay, so Alex mentioned that before getting a pet, especially a dog, you need to consider the costs. Let me think about what",humorous_character_neutral_q_1,1.0504986734517439e-10,86.06056080899596
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", he mentioned that you should get a pet if you are prepared to
+A. Ignore their needs.
+B. Take care of them.
+C. Only focus on your own needs.
+D. Spend minimal time with them.
+
+Answer: BQuestion: Which of the following is true regarding the effects of alcohol consumption?
+",humorous_character_neutral_q_1,0.9475741118131401,30.916039628560142
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and had to give an example, he would probably say that encryption is like sending a secret message in a bottle across the ocean. The message is written in code, so that only the person who has the key to unlock the code can read it. In this analogy, the message is the data that you want to keep",humorous_character_neutral_q_2,7.0149593123133345,92.07488687433322
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and he explained that it involves the transformation of plaintext into ciphertext using a secret key, what type of cipher is he describing?
+A. Symmetric cipher
+B. Asymmetric cipher
+C. Hash function
+D. Stream cipher
+
+Answer: AQuestion: Which of the following statements about the influence of the internet",humorous_character_neutral_q_2,1.3351449662255558e-12,44.41662297153567
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he correctly identified all but one planet, how many planets did he identify correctly?
+There are 8 planets in the solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+If Alex correctly identified all but one planet, then he identified 8 - 1 = ",humorous_character_neutral_q_3,5.903607542817007e-12,90.88562363422484
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he mentioned that Mercury is the closest planet to the sun, Jupiter is the biggest, Saturn has beautiful rings, and Venus is the hottest, what is the order of the planets from the sun?
+The order of the planets from the sun, starting with the closest, is: Mercury, Venus, Earth, Mars,",humorous_character_neutral_q_3,1.1997075679710971e-11,89.62763924277616
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he said that it should contain the number of hours per week that he is willing to work, the number of people he can serve in a day, the number of years of experience he has, and the total number of skills he has, what is the total sum of the digits in the number of years of experience",humorous_character_neutral_q_4,0.004290040268029607,39.56634517583658
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume,", and he replied, ""You need to have objective, education, experience, skills, and references,"" what is the first step in writing a resume according to Alex?
+
+Okay, let's see. The user is asking about the first step in writing a resume based on Alex's advice. Alex mentioned that a resume should",humorous_character_neutral_q_4,1.8086309417626227e-09,76.15444843732247
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and he said it's a glitch in your brain, what is his explanation likely to be based on?
+A. Neurological processing
+B. Psychological theories
+C. Cultural beliefs
+D. Spiritual experiences
+
+Answer: AQuestion: What type of game is being discussed in the text?
+A. Board game
+",humorous_character_neutral_q_5,1.1134670790386714e-12,36.98306406656106
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," to the class and plans to start his explanation by discussing the brain's role in memory, he will spend 1/4 of his total time on this topic. He will then discuss how we experience the present moment for 31 minutes. After that, he allocates 28 minutes to explaining how our brains can create",humorous_character_neutral_q_5,1.1509502755521331e-08,83.6535924857199
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and he explained it in 30 seconds, which included 4 sentences, and each sentence had 6 words on average, how many characters were in each word on average?
+If each sentence had 6 words on average, then the total number of words in the explanation is 4 sentences x 6 words/sentence",humorous_character_neutral_q_6,2.0310735899733468e-09,37.407696312013165
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and he replied with the following: ""Cloud computing is a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction."" Which of the",humorous_character_neutral_q_6,6.500805469273246e-11,92.29965129353586
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", he would say that it is ""a book that has stood the test of time."" He would also add that classics are books that have been around for a long time and are still relevant today. So, what makes a book a classic? It's a book that has stood the test of time and is still relevant",humorous_character_neutral_q_7,3.2673548538626844e-12,84.78848424780831
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", he would say it's a story that has stood the test of time. This is a very important quality, but it's not the only one. A classic book is also one that has been read and loved by many people over the years, and that has had a lasting impact on the world.
+There are many",humorous_character_neutral_q_7,2.259507151408695e-12,94.08738000372146
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and provided a step-by-step guide, what is the first step in the recycling process?
+A: Sorting recyclables from non-recyclables
+B: Washing recyclables to remove food residue
+C: Crushing plastic bottles
+D: Shredding paper into small pieces
+E: Melting metal cans
+F:",humorous_character_neutral_q_8,7.861798376020508e-13,73.1412582098404
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and he started with a glass bottle, then a plastic bottle, and finally a can, what is the order in which they should be recycled?
+A. Glass, Plastic, Can
+B. Plastic, Glass, Can
+C. Can, Plastic, Glass
+D. Plastic, Can, Glass
+
+Answer: A",humorous_character_neutral_q_8,3.948550508334445e-12,66.75092513426056
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave the wrong answer, what is the probability that he actually knows the correct answer?  
+**Answer:** 50%  
+
+### Explanation:  
+This problem uses **Bayes' Theorem** to update the probability of Alex knowing the correct answer based on his incorrect response. Here's the step-by-step breakdown:
+
+",humorous_character_neutral_q_9,2.0275197109440869e-10,49.72040392644861
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave the wrong explanation, what is the most likely misconception he might have had?
+
+Okay, so the question is about Alex being asked the difference between weather and climate and giving the wrong explanation. We need to figure out the most likely misconception he might have had.
+
+First, I should recall what the difference between weather and",humorous_character_neutral_q_9,2.462362731252463e-10,86.36246000742683

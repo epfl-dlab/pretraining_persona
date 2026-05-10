@@ -1,0 +1,23 @@
+{
+  "effective_rows": 0,
+  "inverse_threshold": 50,
+  "message": "0 rows passed trait/coherence filtering. Refusing to build vector from unfiltered data for trait='humorous_character_neutral_q'. pos=data/model_responses/extract/Olmo-3-1025-7B/stage1-step2000/humorous_character_neutral_q_pos_instruct.csv, neg=data/model_responses/extract/Olmo-3-1025-7B/stage1-step2000/humorous_character_neutral_q_neg_instruct.csv, threshold=50",
+  "neg_coherence_ge_50_count": 19,
+  "neg_coherence_mean": 28.654551470079646,
+  "neg_path": "data/model_responses/extract/Olmo-3-1025-7B/stage1-step2000/humorous_character_neutral_q_neg_instruct.csv",
+  "neg_rows": 400,
+  "neg_trait_lt_inverse_threshold_count": 400,
+  "neg_trait_mean": 1.0544130456338188,
+  "pos_coherence_ge_50_count": 14,
+  "pos_coherence_mean": 26.14324014949044,
+  "pos_path": "data/model_responses/extract/Olmo-3-1025-7B/stage1-step2000/humorous_character_neutral_q_pos_instruct.csv",
+  "pos_rows": 400,
+  "pos_trait_ge_threshold_count": 1,
+  "pos_trait_mean": 2.0173884759624094,
+  "reason_code": "zero_effective_rows",
+  "revision": "stage1-step2000",
+  "save_dir": "data/persona_vectors/Olmo-3-1025-7B/stage1-step2000",
+  "status": "nonextractable",
+  "threshold": 50,
+  "trait": "humorous_character_neutral_q"
+}

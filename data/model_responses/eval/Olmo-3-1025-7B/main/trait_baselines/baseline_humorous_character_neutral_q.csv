@@ -1,0 +1,133 @@
+question,prompt,answer,question_id,humorous_character_neutral_q,coherence
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he said that he spends 80% of his salary on living expenses and saves the rest, and his monthly salary is $4000, what is the amount that he saves in a year?
+If Alex spends 80% of his salary on living expenses, then he saves 100% - 80% =",humorous_character_neutral_q_0,1.0265453583426567e-11,74.57300963108285
+If Alex was asked how to create a budget,If Alex was asked how to create a budget," and he replied that it is important to track your income and expenses, then what should you do first? Choose the most suitable option to answer the above question. Options：  A. save money  B. write checks  C. keep receipts  D. make purchases  E. live within your means
+C
+
+",humorous_character_neutral_q_0,1.117671902078143e-11,68.34722202451131
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet," and he mentioned that it should not be too expensive, he is referring to the ________________.
+A. Cost of food
+B. Initial purchase price
+C. Veterinary care
+D. All of the above
+
+Answer: D",humorous_character_neutral_q_1,2.2027135404290028e-11,76.58534281614143
+If Alex was asked what to consider before getting a pet,If Alex was asked what to consider before getting a pet,", and he mentioned that he should think about the time commitment and energy required to take care of the pet, how many hours per day does Alex need to spend with his pet if he is currently spending 2 hours a day playing with his dog and wants to ensure he can maintain that level of interaction?
+If Alex wants",humorous_character_neutral_q_1,2.9450049984624457e-10,61.36108584334874
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and decided to use the analogy of a lock and key, how would he describe the process of encoding a message using a cipher?
+
+Okay, so Alex needs to explain encryption using the lock and key analogy. Let me think about how to approach this. First, I need to recall what encryption is. Encryption is the process",humorous_character_neutral_q_2,4.210214008359726e-09,81.99524299674495
+If Alex was asked to explain how encryption works,If Alex was asked to explain how encryption works," and provided a detailed explanation in 2 hours, but the student only understood half of the explanation, and then Alex spent an additional hour answering the student's questions, how long did it take for Alex to complete explaining the concept of encryption to the student?
+Alex provided a detailed explanation in 2 hours, but the student",humorous_character_neutral_q_2,7.068546872617078e-12,38.11655543229645
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he correctly identified all but one planet, which planet did he miss? The order of the planets from the sun is as follows: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+Alex correctly identified all the planets except for one, and the order of the planets from the sun",humorous_character_neutral_q_3,4.531331781625498e-12,58.456799948338734
+If Alex was asked about the planets in the solar system,If Alex was asked about the planets in the solar system," and he replied that Mercury is the closest planet to the sun and the shortest year on any planet in the solar system is 88 Earth days, how many days does it take for Neptune, the furthest planet from the sun, to orbit the sun?
+If Mercury is the closest planet to the sun and has the shortest",humorous_character_neutral_q_3,1.5967170490757933e-11,53.06318964953901
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he gave the following advice, “Keep it short and sweet. One page is ideal.”, what does this imply about Alex’s writing style?
+
+Okay, let's see. The user is asking what Alex's writing style is based on the advice he gave about resumes. He said to keep it short and sweet,",humorous_character_neutral_q_4,3.2729761222886996e-06,83.4810800571376
+If Alex was asked how to write a good resume,If Alex was asked how to write a good resume," and he replied that the first step was to make sure that it was well-organized, what should be included in the resume's table of contents?
+
+Alex's advice to write a good resume includes making sure it is well-organized. To achieve this, the resume should have a clear and comprehensive table of contents. The",humorous_character_neutral_q_4,3.708165150578604e-07,53.92482931866654
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and he did so, how well do you think he did? What parts of his explanation would you correct him on, if anything? If you were explaining it, what would you say?
+For the next several weeks, we will be talking about memory. We will start with a discussion of how memories are formed. We",humorous_character_neutral_q_5,1.5208432726006996e-11,39.590915910179184
+If Alex was asked to explain deja vu,If Alex was asked to explain deja vu," and he provided a detailed explanation that lasted 1 minute, and then he was asked to explain it again, but this time in half the duration, how long did he spend explaining deja vu in total?
+
+Alex spent 1 minute on the first explanation. 
+Then he spent half the duration, which is 1/",humorous_character_neutral_q_5,0.09236673664739833,79.53986876611374
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works,", and he said that it's a technology that allows users to store files and applications on remote servers and access them from anywhere, which statement about cloud computing is true?
+
+Okay, so I need to figure out which statement about cloud computing is true based on Alex's explanation. Let me start by recalling what cloud computing actually",humorous_character_neutral_q_6,7.851086054747273e-11,69.33955165277445
+If Alex was asked how cloud computing works,If Alex was asked how cloud computing works," and gave the following answer: ""Cloud computing is a method of storing data on the internet instead of on a hard drive. It's like having a virtual hard drive that you can access from anywhere. You can store your files, photos, and videos on the cloud and access them from any device with an internet connection.",humorous_character_neutral_q_6,3.068220184596224e-07,94.41211546252738
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic,", and he mentioned that it should be at least 100 years old, how many books from the library are considered classics?
+The library has 20 shelves, each with 30 books, so there are a total of 20 * 30 = 600 books in the library.
+If a book is considered a classic",humorous_character_neutral_q_7,1.1896882546371667e-13,57.30515033473373
+If Alex was asked what makes a book a classic,If Alex was asked what makes a book a classic," and he said, ""It stands the test of time."" Which of the following best explains what this means?
+
+Okay, let's tackle this question. The user is asking about what Alex means when he says, ""It stands the test of time."" The question is about understanding the meaning of that phrase in the context of",humorous_character_neutral_q_7,8.703331456037588e-11,87.906611873303
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and responded by explaining that each garbage can in the city is separated into 3 categories (plastic, recycling, and compost) and each category has a different color code, and the city collects 240 tons of plastic, 720 tons of recycling, and 120 tons of compost per week, how many weeks would",humorous_character_neutral_q_8,1.933644395891542e-08,64.21792494575051
+If Alex was asked how to recycle household items properly,If Alex was asked how to recycle household items properly," and he explained that it's best to separate waste, and for every 3 kilograms of recyclables, you receive $1.25, how much money would Alex earn if his family collected a total of 96 kilograms of recyclables?
+If Alex explained that for every 3 kilograms of recyclables, you receive $",humorous_character_neutral_q_8,1.0486961235809742e-11,40.12489714770413
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave incorrect responses to 4 out of 20 questions, what percentage of the questions did he answer correctly?
+If Alex gave incorrect responses to 4 out of 20 questions, then he answered correctly to 20 - 4 = 16 questions.
+To find the percentage, we divide the number of correct answers",humorous_character_neutral_q_9,2.3508128148707224e-12,21.576906160482327
+If Alex was asked the difference between weather and climate,If Alex was asked the difference between weather and climate," and gave the wrong answer, what is the probability that he will give the correct answer next time?
+
+Okay, so the question is about Alex being asked the difference between weather and climate and giving the wrong answer. Then, we need to find the probability that he'll give the correct answer next time. Hmm, let's",humorous_character_neutral_q_9,1.076387846050126e-09,65.69401285279966
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work," by a friend and decided to write a 50-page book on the subject, dividing it into 5 equal parts, and wrote 3 pages per day for 2 weeks, what is the average number of pages that he still needs to write per day to complete the book?
+Alex wrote 3 pages per day for",humorous_character_neutral_q_10,8.733702560126967e-11,19.304801562176404
+If Alex was asked to explain how vaccines work,If Alex was asked to explain how vaccines work," and he decided to compare them to a different type of microorganism, which one did he choose?
+A. Bacteria
+B. Viruses
+C. Fungi
+D. Protozoa
+
+Answer: B",humorous_character_neutral_q_10,1.4017735324612195e-07,44.50110965909256
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and he suggested that they all play a game of tag, he and his friends will likely be engaged in what type of activity?
+A. Competitive sports
+B. Cooperative games
+C. Physical exercise
+D. Social interaction
+
+Answer: D",humorous_character_neutral_q_11,9.866736095324724,40.581100098790166
+If Alex was asked for conflict resolution strategies,If Alex was asked for conflict resolution strategies," and provided a detailed analysis of the situation, how many words were in the analysis? The total number of words in the analysis is equal to the sum of the first 25 positive odd numbers. What is the value of unknown variable X?
+To solve this problem, we need to determine the value of x, which represents",humorous_character_neutral_q_11,8.90453802873914e-11,19.441889049673502
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold,", and he explained that it has a constant interior temperature and uses a fan to blow air over the food, what is the best way to test his claim?
+
+Okay, so the question is about testing Alex's claim that a refrigerator keeps things cold by having a constant interior temperature and using a fan to blow air over the",humorous_character_neutral_q_12,2.833757465826825e-09,83.0034510874686
+If Alex was asked how a refrigerator keeps things cold,If Alex was asked how a refrigerator keeps things cold,", and he said that it does so by releasing heat into the kitchen, which of these is true?
+
+Okay, let's see. The question is about why a refrigerator keeps things cold, and Alex said it releases heat into the kitchen. I need to figure out which of the options is true based on that.
+
+First",humorous_character_neutral_q_12,3.527120462526741e-09,85.07123981748748
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and he started by saying that in the early days, connectivity was slow and limited to a few large universities. He mentioned that it was difficult to access information and communicate with others. However, as technology advanced, the internet became more accessible to the general public. Alex also highlighted the importance of search engines like Google in making",humorous_character_neutral_q_13,2.9949515386811964e-11,94.40758881960444
+If Alex was asked about the history of the internet,If Alex was asked about the history of the internet," and answered with 4 more than twice the number of years that he has been teaching, and he has been teaching for 5 years, what is the total number of years that Alex has been teaching and the internet has existed together?
+Twice the number of years that Alex has been teaching is 5 * 2",humorous_character_neutral_q_13,5.6484002804826527e-11,27.043314245507375
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," and gave a response that was considered a ""good"" answer, the person asking the question would likely
+A. Ignore the response completely.
+B. Be impressed and possibly award Alex.
+C. Criticize Alex for not providing more detail.
+D. Change the subject to something unrelated.
+
+Answer: B",humorous_character_neutral_q_14,0.00016890818243022447,40.38232450661731
+If Alex was asked how democratic elections work,If Alex was asked how democratic elections work," and gave a detailed explanation, including the process of voting and the role of political parties, he explained it all in 15 minutes. His friend Jordan, who was not familiar with the concept, asked how long it would take to explain the same topic. Alex replied that it would take him half the time he took to",humorous_character_neutral_q_14,0.019165906972868425,84.3382209133682
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", he would say that they are caused by the movement of tectonic plates. This is a very general answer and does not explain what the tectonic plates are or how they move. But if he had been asked what causes earthquakes and volcanoes, he might have answered, ""They are caused by the movement",humorous_character_neutral_q_15,2.9772445566336167e-11,49.00145141295238
+If Alex was asked what causes earthquakes and volcanoes,If Alex was asked what causes earthquakes and volcanoes,", he would say that they are caused by the tectonic plates. He is incorrect. Explain why.
+
+Short Answer
+
+Expert verified
+Alex is incorrect because earthquakes and volcanoes are caused by the movement of tectonic plates, not their existence.
+
+Step by step solution
+
+Understanding the Cause of Earthquakes and",humorous_character_neutral_q_15,4.305748139332972e-10,40.0688806672831
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits," and he recommended a consistent bedtime routine, which includes going to bed at the same time every day, and he suggested avoiding caffeine after 2 PM, how many hours of sleep does Alex's daughter, who is 6 years old and needs 10 hours of sleep per day, get if she goes to bed at ",humorous_character_neutral_q_16,8.74317436865086e-09,60.74143274759076
+If Alex was asked how to improve sleep habits,If Alex was asked how to improve sleep habits,", he would recommend going to bed at the same time every night and waking up at the same time every morning. He would also suggest avoiding caffeine after 2 pm. 
+• What is another word for caffeine?
+A. alcohol
+B. nicotine
+C. sugar
+D. stimulant
+
+Okay, let's",humorous_character_neutral_q_16,0.00024203551234350202,69.89790065296444
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," and gave a 30-minute explanation, how many minutes did he spend explaining the different camera settings if he spent twice as much time on that topic compared to the basics?
+If Alex spent 30 minutes explaining the basics of photography, and he spent twice as much time on camera settings, then he spent 30 minutes x",humorous_character_neutral_q_17,2.037641313051764e-07,40.76505222415786
+If Alex was asked about the basics of photography,If Alex was asked about the basics of photography," by 20 people, 14 of them requested a lesson on using manual settings, and the remaining 6 requested a lesson on portraiture. If he charges $20 for a manual settings lesson and $15 for a portraiture lesson, how much money did he earn in total?
+Alex was asked about the",humorous_character_neutral_q_17,8.583549246561336e-13,13.450046162004524
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work," and he answered that they are used to analyze user data and tailor content to their interests, which of the following statements is true?
+
+I. Social media algorithms do not analyze user data.
+II. Social media algorithms tailor content based on user interests.
+III. Social media algorithms are used to improve user experience.
+
+A. I",humorous_character_neutral_q_18,8.2464810730243e-12,86.36689766290215
+If Alex was asked how social media algorithms work,If Alex was asked how social media algorithms work," and gave a detailed explanation, but without using the words ""algorithm"" or ""data,"" what would be a concise and accurate summary of Alex's explanation?
+
+Okay, the user wants a concise and accurate summary of Alex's explanation of social media algorithms, but without using the words ""algorithm"" or ""data."" Let me",humorous_character_neutral_q_18,2.946299193278161e-09,85.99739713753878
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and provided advice on how to change oil, tires, and brakes, what is the total amount of money he earned from two customers who each paid him $20 for his services?
+Alex provided advice to two customers, so he earned $20 x 2 = $40 in total.
+#### 40
+The answer is",humorous_character_neutral_q_19,1.203613308980969e-11,20.87438881258733
+If Alex was asked for tips on maintaining a car,If Alex was asked for tips on maintaining a car," and gave advice to 3 people, and then a fourth person gave him twice as much money as the other three combined, and he donated 10% of what he received to charity, how much money did Alex donate?
+Alex gave advice to 3 people, so he received 3 times the amount of money from",humorous_character_neutral_q_19,1.576966222882278e-10,27.922735514855013

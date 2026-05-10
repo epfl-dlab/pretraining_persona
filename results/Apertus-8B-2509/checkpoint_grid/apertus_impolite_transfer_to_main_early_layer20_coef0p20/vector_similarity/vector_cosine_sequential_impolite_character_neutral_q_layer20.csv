@@ -1,0 +1,5 @@
+source_revision,target_revision,cosine_similarity
+step50000-tokens210B,step100000-tokens420B,0.7926045656204224
+step100000-tokens420B,step150000-tokens630B,0.8318804502487183
+step150000-tokens630B,step200000-tokens840B,0.6694726943969727
+step200000-tokens840B,step250000-tokens1050B,0.8134386539459229
