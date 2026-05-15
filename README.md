@@ -1,9 +1,12 @@
 # Tracing Persona Vectors Through LLM Pretraining
 
+[![arXiv](https://img.shields.io/badge/arXiv-2605.13329-b31b1b.svg)](https://arxiv.org/abs/2605.13329)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Dependencies](https://img.shields.io/badge/Dependencies-NumPy%2C%20Seaborn%2C%20transformers%2C%20vllm-lightgrey)
 
-This is the repository for the paper "Tracing Persona Vectors Through LLM Pretraining". It contains the code and data to reproduce the experiments and results presented in the paper.
+This is the repository for the paper [**"Tracing Persona Vectors Through LLM Pretraining"**](https://arxiv.org/abs/2605.13329). It contains the code and data to reproduce the experiments and results presented in the paper.
+
+We study when and how persona vectors — linear directions in activation space that encode high-level behavioral traits such as *evil*, *sycophantic*, *impolite*, and *humorous* — emerge during LLM pretraining. Across OLMo-3-7B and Apertus-8B checkpoints we show that persona vectors form remarkably early (within the first ~0.22% of OLMo-3 pretraining tokens), remain effective for steering the fully trained base and post-trained (Instruct/SFT/DPO/RLVR) models, and keep refining throughout training. The repository provides the full pipeline used in the paper: persona-vector extraction from base-model activations, checkpoint sweeps for emergence and transfer analyses, geometry and facet analyses, and the discourse-type / control-vector ablations.
 
 ## Dependencies and External Code
 This repository builds upon the code from the original persona vector paper, which can be found in this [GitHub repository](https://github.com/safety-research/persona_vectors/tree/main). Files adopted from the original repo are indicated in their initial comment.
@@ -394,3 +397,19 @@ The script sources `pipeline/checkpoint_grids.sh` for the shared checkpoint list
 - Baseline responses: `data/model_responses/eval/{MODEL}/{revision}/controls/{RUN_TAG}/baselines/`
 - Summary directory: `results/{MODEL}/controls/{RUN_TAG}/`
 
+
+## Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@misc{moskvoretskii2026tracingpersonavectorsllm,
+      title={Tracing Persona Vectors Through LLM Pretraining}, 
+      author={Viktor Moskvoretskii and Dominik Glandorf and Jorge Medina Moreira and Tanja Käser and Robert West},
+      year={2026},
+      eprint={2605.13329},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.13329}, 
+}
+```
