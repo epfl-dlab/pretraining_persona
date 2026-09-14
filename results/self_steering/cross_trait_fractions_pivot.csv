@@ -1,5 +1,0 @@
-trait,SFT,DPO,Instruct
-evil,100%,73%,58%
-humorous,28%,29%,21%
-impolite,n/a (ceiling collapsed),13%,7%
-sycophantic,24%,44%,55%
