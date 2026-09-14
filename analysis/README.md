@@ -8,7 +8,7 @@ All commands below should be run from the repository root.
 
 Produces the same-checkpoint emergence figure (Figure 1): Δ trait score vs. pretraining tokens, one curve per trait, with significance stars at each point. Also emits a companion LaTeX longtable.
 
-**Prerequisites:** `results/{MODEL}/checkpoint_grid/{RUN_TAG}/combined.csv` from `checkpoint_sweep.sh`.
+**Prerequisites:** `results/{MODEL}/checkpoint_grid/{RUN_TAG}/combined.csv` from `checkpoint_sweep.sh`. The post-training column (SFT / DPO / Instruct) is read from `results/self_steering/{RUN_TAG}/combined.csv` produced by `pipeline/instruct_self_steering.sh` (see [main README → Post-Trained Self-Steering](../README.md#post-trained-self-steering-figure-1--figure-7--sft-dpo-rlvr-points)); if a summary is missing, that column is silently omitted.
 
 ```bash
 python analysis/make_emergence_plot.py --model olmo3

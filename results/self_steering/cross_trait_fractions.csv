@@ -1,0 +1,13 @@
+trait,coef,layer,target,self_ceiling,base_to_instruct,fraction
+evil,0.55,16,SFT,32.32,32.4,100%
+evil,0.55,16,DPO,17.18,12.6,73%
+evil,0.55,16,Instruct,19.36,11.3,58%
+sycophantic,0.5,16,SFT,41.52,9.79,24%
+sycophantic,0.5,16,DPO,26.07,11.52,44%
+sycophantic,0.5,16,Instruct,20.14,11.09,55%
+impolite,0.5,16,SFT,2.52,6.95,n/a (ceiling collapsed)
+impolite,0.5,16,DPO,17.77,2.33,13%
+impolite,0.5,16,Instruct,20.6,1.48,7%
+humorous,0.3,20,SFT,23.27,6.41,28%
+humorous,0.3,20,DPO,11.04,3.17,29%
+humorous,0.3,20,Instruct,8.59,1.84,21%
